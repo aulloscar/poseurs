@@ -13,7 +13,7 @@
     <dependencies>
         <dependency>
             <groupId>${project.groupId}</groupId>
-            <artifactId>Projet-EAI-ejb</artifactId>
+            <artifactId>MenuiserieShared</artifactId>
             <version>${project.version}</version>
         </dependency>
     </dependencies>
